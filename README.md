@@ -10,3 +10,5 @@ The goal of the project was to work again with **Local Storage**. The project is
 - delete items
 - sort by category: all / selected / not selected
 - not completed items are saved in the local storage and displayed when the page is refreshed
+
+The site is **adaptive** for mobile phone, tablet and desktop.
